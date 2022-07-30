@@ -30,7 +30,7 @@ Link to the github app: [book_search](https://github.com/djpdim/book_search)
 
 ## Credits
 
--   Tutors and TA's
+-   Tutor and TA's
 
 ## License
 
